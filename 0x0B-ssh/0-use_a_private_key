@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 # Use ssh to connect to your server using private key
+# We used this method to configure the new one.
 
 ssh -i ~/.ssh/holberton ubuntu@52.91.118.10
